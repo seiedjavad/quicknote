@@ -197,6 +197,9 @@ function App() {
                 A clean note board with pinned cards, labels, search, and a calm
                 interface for fast daily capture.
               </p>
+              <p className="deployment-check">
+                Live deployment check: this text was added to verify updates.
+              </p>
             </div>
             <div className="hero-stats">
               <strong>{notes.length}</strong>
